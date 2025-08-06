@@ -3,4 +3,4 @@ Run your powershell as Admin. Then copy the whole command given bellow and paste
 
 Command:----> irm https://raw.githubusercontent.com/Genxis/Genxis-Network-Tweaker/refs/heads/main/Genxis%20Network%20Tweaking.ps1 | iex
 
-DISCORD LINK:- https://discord.gg/Nn4yKZygTV
+DISCORD LINK:- https://discord.gg/Nn4yKZygTV 
